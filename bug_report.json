@@ -1,5 +1,6 @@
-<<<<<<< HEAD
-bug
-=======
-
->>>>>>> refs/remotes/origin/main
+{
+"header" : "name_of_header",
+   "steps_to_reproduce" : "1...; 2...; 3...;",
+   "project" : "project_1",
+   "severity" : "minor",
+   "priority" : "medium"[A[A[A[A[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D                            [D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D"header" : "name_of_header",[B[B[B[B[B[B[B[B[D[D[D[D[D[D[D
